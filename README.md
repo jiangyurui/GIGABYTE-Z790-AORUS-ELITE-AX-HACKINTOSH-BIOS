@@ -1,14 +1,12 @@
 黑苹果之Z790小雕免引导白苹果化（目前支持Monterey和ventura系统）
-目的
 为了建立一个黑苹果新手使用macOS系统的方式（类似于以前OZMOSIS一样），可以让使用者不用去关心bootloader设置问题，直接使用即好（当然万事万物都是一分为二，因为深度定制导致灵活性会差一些，你觉得不好可能是因为你没有这方面的需求，这个对黑苹果新手来说是非常友好的）；
-
 It's a thing like OZMOSIS,you can flash it then you can install macOS without bootloader anymore.
 
 如果需要定制其他主板BIOS可咨询https://jiangyurui.taobao.com/ ；
 硬件支持列表
 Hardware support:：
 1.CPU目前支持13代酷睿全系，但因为定制的原因，请使用I5-13600K以达到最佳效果；
-  The CPU currently supports the entire 13th generation Core series, but for customization reasons, please use I5-13600K to achieve the best results;
+The CPU currently supports the entire 13th generation Core series, but for customization reasons, please use I5-13600K to achieve the best results;
 
 2.显卡支持RX460，470，480，560，570，580，590，5500xt，5600xt，5700xt，6600，6600xt，6800xt，6900xt等免驱显卡； 
   The graphics card supports RX460, 470, 480, 560, 570, 580, 590, 5500xt, 5600xt, 5700xt, 6600, 6600xt, 6800xt, 6900xt and other drive-free graphics cards;
